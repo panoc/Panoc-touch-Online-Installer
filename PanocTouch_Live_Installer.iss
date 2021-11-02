@@ -164,7 +164,7 @@ begin
   
    if IsComponentSelected('boot') then
   begin
-            idpAddFileSize ('https://onedrive.live.com/download?cid=6BDEC372B5914DE5&resid=6BDEC372B5914DE5%212270&authkey=AN6sP9ccIW3QsVw', ExpandConstant('{tmp}\boot.7z'),228);
+            idpAddFileSize ('https://onedrive.live.com/download?cxxxx link here ', ExpandConstant('{tmp}\boot.7z'),228);
   
    end;
    
